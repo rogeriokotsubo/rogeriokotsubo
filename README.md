@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @rogeriokotsubo
-- 👀 I’m new to this community
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate with the knowledge that I have been acquiring
-- 📫 How to reach me rogeriokotsubo@gmail.com
+- 👀 Aspirante a Dev na Alpha Ed/Tech
+- 📫 Meu contato rogeriokotsubo@gmail.com
 
 <!---
 rogeriokotsubo/rogeriokotsubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
